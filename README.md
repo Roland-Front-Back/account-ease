@@ -1,0 +1,3 @@
+Simple Accounting WebApp
+Identify Value Parted With and Value Received With
+Unfinished....
