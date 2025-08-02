@@ -6,7 +6,7 @@
 
 # 💼 ACCOUNT-EASE
 
-A lightweight, browser-based accounting assistant that converts plain language into simple journal entries — perfect for students, freelancers, and small business owners.
+A lightweight, browser-based accounting assistant that converts plain language into simple journal entries perfect for students, freelancers, and small business owners.
 
 ---
 
