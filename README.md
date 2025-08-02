@@ -14,6 +14,7 @@ A lightweight, browser-based accounting assistant that converts plain language i
 
 - [📖 Overview](#overview)
 - [✨ Features](#features)
+- [🔗 Live Demo](#live-demo)
 - [📁 Project Structure](#project-structure)
 - [🚀 Getting Started](#getting-started)
   - [📦 Prerequisites](#prerequisites)
@@ -38,6 +39,15 @@ A lightweight, browser-based accounting assistant that converts plain language i
 And watch them get parsed into accurate double-entry accounting logs.
 
 No backend. No login. Just fast, local journalizing.
+
+---
+
+<a id="live-demo"></a>
+
+## 🔗 Live Demo
+
+👉 [Try Account-Ease Now](https://roland-front-back.github.io/account-ease/)  
+_No installation required – runs entirely in your browser._
 
 ---
 
