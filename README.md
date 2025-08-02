@@ -1,7 +1,7 @@
 <div id="top">
 
 <div align="left" style="position: relative; width: 100%; height: 100%;">
-  <img src="readmeai/assets/logos/purple.svg" width="30%" style="position: absolute; top: 0; right: 0;" alt="Project Logo"/>
+  <img src="assets/logos/ease.png" width="30%" style="position: absolute; top: 0; right: 0;" alt="Project Logo"/>
 </div>
 
 # 💼 ACCOUNT-EASE
