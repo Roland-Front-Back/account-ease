@@ -12,21 +12,20 @@ A lightweight, browser-based accounting assistant that converts plain language i
 
 ## 📚 Table of Contents
 
-- [📖 Overview](#overview)
-- [✨ Features](#features)
-- [🔗 Live Demo](#live-demo)
-- [📁 Project Structure](#project-structure)
-- [🚀 Getting Started](#getting-started)
-  - [📦 Prerequisites](#prerequisites)
-  - [⚙️ Installation](#installation)
-  - [▶️ Usage](#usage)
-  - [🧪 Testing](#testing)
-- [🛣 Roadmap](#roadmap)
-- [🙌 Acknowledgments](#acknowledgments)
+- [📖 Overview](#-overview)
+- [✨ Features](#-features)
+- [🔗 Live Demo](#-live-demo)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Getting Started](#-getting-started)
+  - [📦 Prerequisites](#-prerequisites)
+  - [⚙️ Installation](#-installation)
+  - [▶️ Usage](#-usage)
+  - [🧪 Testing](#-testing)
+- [🛣 Roadmap](#-roadmap)
+- [📝 License](#-license)
+- [🙌 Acknowledgments](#-acknowledgments)
 
 ---
-
-<a id="overview"></a>
 
 ## 📖 Overview
 
@@ -40,8 +39,6 @@ No backend. No login. Just fast, local journalizing.
 
 ---
 
-<a id="live-demo"></a>
-
 ## 🔗 Live Demo
 
 👉 [Try Account-Ease Now](https://roland-front-back.github.io/account-ease/)  
@@ -49,7 +46,7 @@ _No installation required – runs entirely in your browser._
 
 ---
 
-<a id="features"></a>
+---
 
 ## ✨ Features
 
@@ -61,7 +58,7 @@ _No installation required – runs entirely in your browser._
 
 ---
 
-<a id="project-structure"></a>
+---
 
 ## 📁 Project Structure
 
@@ -76,17 +73,17 @@ account-ease/
     └── js/          # Logic & interaction
 ```
 
-<a id="getting-started"></a>
+---
 
 ## 🚀 Getting Started
 
-<a id="prerequisites"></a>
+---
 
 ## 📦 Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 
-<a id="installation"></a>
+---
 
 ## ⚙️ Installation
 
@@ -97,7 +94,7 @@ git clone https://github.com/Roland-Front-Back/account-ease
 cd account-ease
 ```
 
-<a id="usage"></a>
+---
 
 ## ▶️ Usage
 
@@ -109,7 +106,7 @@ open index.html
 
 Or drag index.html into any browser window.
 
-<a id="testing"></a>
+---
 
 ## 🧪 Testing
 
@@ -121,7 +118,7 @@ Or drag index.html into any browser window.
 
 - Checking for balance consistency
 
-  <a id="roadmap"></a>
+---
 
 ## 🛣 Roadmap
 
@@ -138,6 +135,20 @@ Or drag index.html into any browser window.
 - [ ] Add dark mode 🌙
 
 - [ ] Add transaction templates
+
+---
+
+## 📝 License
+
+No License – All Rights Reserved
+
+This repository and its contents are protected by copyright law.
+
+No part of this code may be reproduced, modified, or distributed without
+
+prior written consent from the author.
+
+---
 
 ## 🙌 Acknowledgments
 
