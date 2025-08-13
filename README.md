@@ -141,7 +141,7 @@ Or drag index.html into any browser window.
 
 ## 🙌 Acknowledgments
 
-- 👥 Built by Group 9 — BSIT, FEU Tech
+- 👥 Group 9 accounting students
 
 - 📚 Inspired by accounting education platforms
 
