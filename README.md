@@ -140,13 +140,17 @@ Or drag index.html into any browser window.
 
 ## 📝 License
 
-No License – All Rights Reserved
+## License
+
+**No License – All Rights Reserved**
 
 This repository and its contents are protected by copyright law.
 
-No part of this code may be reproduced, modified, or distributed without
+You may not copy, modify, distribute, or use any part of this code for any
 
-prior written consent from the author.
+purpose without explicit written permission from the author.
+
+© Roland Amoguis, 2025
 
 ---
 
