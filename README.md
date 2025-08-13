@@ -22,8 +22,6 @@ A lightweight, browser-based accounting assistant that converts plain language i
   - [▶️ Usage](#usage)
   - [🧪 Testing](#testing)
 - [🛣 Roadmap](#roadmap)
-- [🤝 Contributing](#contributing)
-- [📝 License](#license)
 - [🙌 Acknowledgments](#acknowledgments)
 
 ---
@@ -141,40 +139,6 @@ Or drag index.html into any browser window.
 
 - [ ] Add transaction templates
 
-<a id="contributing"></a>
-
-## 🤝 Contributing
-
-We welcome contributions of all kinds!
-How to contribute:
-
-1.  Fork the repository 🍴
-
-2.  Create a new branch 🧪
-
-```sh
-git checkout -b feature-name
-```
-
-3. Make your changes and commit 💾
-
-4. Push the branch to your fork 🚀
-
-5. Open a Pull Request 📝
-
-### 📬 For detailed guidelines, see our CONTRIBUTING.md
-
-### 📢 Join the discussion: GitHub Discussions
-
-<a id="license"></a>
-
-## 📝 License
-
-Distributed under the MIT License.
-See LICENSE for full details.
-
-<a id="acknowledgments"></a>
-
 ## 🙌 Acknowledgments
 
 - 👥 Built by Group 9 — BSIT, FEU Tech
@@ -182,7 +146,5 @@ See LICENSE for full details.
 - 📚 Inspired by accounting education platforms
 
 - 🧩 Logo and badge support from Shields.io
-
-- 🙏 Thanks to all contributors!
 
  <div align="right"> <a href="#top">🔝 Back to top</a> </div>
